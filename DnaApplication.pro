@@ -25,13 +25,11 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
-    stringalgorithms.cpp
+        mainwindow.cpp
 
 HEADERS += \
         mainwindow.h \
-    stringalgorithms.h
+    topicsenum.h
 
 FORMS += \
-        mainwindow.ui \
-    stringalgorithms.ui
+        mainwindow.ui
